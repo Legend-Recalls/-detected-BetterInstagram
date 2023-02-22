@@ -903,3 +903,87 @@ div._0lGlC{
         */
     `);
 })();
+(function() {
+    'use strict';
+
+    // Define the emoji mappings
+    const emojiMap = {
+        ':sob:': '😭',
+        ':joy:': '😂',
+        ':skull:': '💀',
+        ':heart:': '❤️',
+        ':smile:': '😊',
+        ':laugh:': '😂',
+        ':wink:': '😉',
+        ':thumbsup:': '👍',
+        ':thumbsdown:': '👎',
+        ':clap:': '👏',
+        ':pray:': '🙏',
+        ':fire:': '🔥',
+        ':100:': '💯',
+        ':money:': '💰',
+        ':gift:': '🎁',
+        ':clock:': '🕒',
+        ':beer:': '🍺',
+        ':pizza:': '🍕',
+        ':hamburger:': '🍔',
+        ':icecream:': '🍦',
+        ':sunglasses:': '😎',
+        ':thinking:': '🤔',
+        ':sweat:': '😓',
+        ':muscle:': '💪',
+        ':heart_eyes:': '😍',
+        ':star:': '⭐️',
+        ':book:': '📚',
+        ':envelope:': '✉️',
+        ':phone:': '📱',
+        ':computer:': '💻',
+        ':globe:': '🌎',
+        ':sun:': '☀️',
+        ':rain:': '🌧️',
+        ':snow:': '❄️',
+        ':moon:': '🌙',
+        ':spider:': '🕷️',
+        ':snake:': '🐍',
+        ':tiger:': '🐯',
+        ':elephant:': '🐘',
+        ':dog:': '🐶',
+        ':cat:': '🐱',
+        ':rabbit:': '🐰',
+        ':bear:': '🐻',
+        ':unicorn:': '🦄',
+        ':dragon:': '🐲',
+        ':octopus:': '🐙',
+        ':fish:': '🐟',
+        ':whale:': '🐳',
+        ':penguin:': '🐧',
+        ':bird:': '🐦',
+        ':butterfly:': '🦋',
+        ':flower:': '🌺',
+        ':tree:': '🌳',
+        ':mountain:': '⛰️',
+        ':beach:': '🏖️',
+        ':cityscape:': '🏙️',
+        ':nails:': '💅',
+        ':respect:':'🫡',
+        ':wave:': '👋',
+        ':inlove:':'🥰',
+        ':heart2:':'💕',
+        ':broken_heart:':'💔',
+        ':kiss:':'👩‍❤️‍💋‍👨',
+        ':heart_arrow:':'💘',
+    };
+    // Watch for keypress events on the document object
+    document.addEventListener('keydown', function(event) {
+        // Check if the keypress was triggered in an input element
+        if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') {
+            const messageInput = event.target;
+
+            // Replace :sob:, :joy:, and :skull: with their corresponding emojis
+            Object.entries(emojiMap).forEach(([emojiStr, emoji]) => {
+                messageInput.value = messageInput.value.replace(new RegExp(emojiStr, 'g'), emoji);
+            });
+
+                }
+    });
+})();
