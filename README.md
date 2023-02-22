@@ -10,6 +10,7 @@
 - Automatically make the text cursor goto text box when the user is typing (idky this isnt a feature already)
 - Full Size DM UI
 - Blue Black theme just like classic Instagram App
+- {new} Added emoji regex! (now you can use emojis just like discord, type :emoji_name: to get the emoji)
 
 ## Get It On
 [![Download](https://img.shields.io/greasyfork/dt/459925)](https://greasyfork.org/en/scripts/459925-betterinstagram)
