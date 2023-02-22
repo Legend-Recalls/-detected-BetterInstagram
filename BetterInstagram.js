@@ -2,7 +2,8 @@
 // @name BetterInstagram
 // @namespace https://www.instagram.com/
 // @include https://www.instagram.com/direct/*
-// @version 1.0
+// @version 1.1
+// @author legend_recalls
 // @grant GM_addStyle
 // ==/UserScript==
 
