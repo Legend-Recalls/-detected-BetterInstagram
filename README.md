@@ -22,69 +22,71 @@
 <details open>
 <summary>Available Emojis (gonna keep adding if requested)</summary>
 <br>
-- :sob: --> 😭
-- :joy: --> 😂
-- :skull: --> 💀
-- :heart: --> ❤️
-- :smile: --> 😊
-- :laugh: --> 😂
-- :wink: --> 😉
-- :thumbsup: --> 👍
-- :thumbsdown: --> 👎
-- :clap: --> 👏
-- :pray: --> 🙏
-- :fire: --> 🔥
-- :100: --> 💯
-- :money: --> 💰
-- :gift: --> 🎁
-- :clock: --> 🕒
-- :beer: --> 🍺
-- :pizza: --> 🍕
-- :hamburger: --> 🍔
-- :icecream: --> 🍦
-- :sunglasses: --> 😎
-- :thinking: --> 🤔
-- :sweat: --> 😓
-- :muscle: --> 💪
-- :heart_eyes: --> 😍
-- :star: --> ⭐️
-- :book: --> 📚
-- :envelope: --> ✉️
-- :phone: --> 📱
-- :computer: --> 💻
-- :globe: --> 🌎
-- :sun: --> ☀️
-- :rain: --> 🌧️
-- :snow: --> ❄️
-- :moon: --> 🌙
-- :spider: --> 🕷️
-- :snake: --> 🐍
-- :tiger: --> 🐯
-- :elephant: --> 🐘
-- :dog: --> 🐶
-- :cat: --> 🐱
-- :rabbit: --> 🐰
-- :bear: --> 🐻
-- :unicorn: --> 🦄
-- :dragon: --> 🐲
-- :octopus: --> 🐙
-- :fish: --> 🐟
-- :whale: --> 🐳
-- :penguin: --> 🐧
-- :bird: --> 🐦
-- :butterfly: --> 🦋
-- :flower: --> 🌺
-- :tree: --> 🌳
-- :mountain: --> ⛰️
-- :beach: --> 🏖️
-- :cityscape: --> 🏙️
-- :nails: --> 💅
-- :respect: --> 🫡
-- :wave: --> 👋
-- :inlove: --> 🥰
-- :heart2: --> 💕
-- :broken_heart: --> 💔
-- :kiss: --> 👩‍❤️‍💋‍👨
-- :heart_arrow: --> 💘
+<ul>
+<li>:sob: --> 😭</li>
+<li>:joy: --> 😂</li>
+<li>:skull: --> 💀</li>
+<li>:heart: --> ❤️</li>
+<li>:smile: --> 😊</li>
+<li>:laugh: --> 😂</li>
+<li>:wink: --> 😉</li>
+<li>:thumbsup: --> 👍</li>
+<li>:thumbsdown: --> 👎</li>
+<li>:clap: --> 👏</li>
+<li>:pray: --> 🙏</li>
+<li>:fire: --> 🔥</li>
+<li>:100: --> 💯</li>
+<li>:money: --> 💰</li>
+<li>:gift: --> 🎁</li>
+<li>:clock: --> 🕒</li>
+<li>:beer: --> 🍺</li>
+<li>:pizza: --> 🍕</li>
+<li>:hamburger: --> 🍔</li>
+<li>:icecream: --> 🍦</li>
+<li>:sunglasses: --> 😎</li>
+<li>:thinking: --> 🤔</li>
+<li>:sweat: --> 😓</li>
+<li>:muscle: --> 💪</li>
+<li>:heart_eyes: --> 😍</li>
+<li>:star: --> ⭐️</li>
+<li>:book: --> 📚</li>
+<li>:envelope: --> ✉️</li>
+<li>:phone: --> 📱</li>
+<li>:computer: --> 💻</li>
+<li>:globe: --> 🌎</li>
+<li>:sun: --> ☀️</li>
+<li>:rain: --> 🌧️</li>
+<li>:snow: --> ❄️</li>
+<li>:moon: --> 🌙</li>
+<li>:spider: --> 🕷️</li>
+<li>:snake: --> 🐍</li>
+<li>:tiger: --> 🐯</li>
+<li>:elephant: --> 🐘</li>
+<li>:dog: --> 🐶</li>
+<li>:cat: --> 🐱</li>
+<li>:rabbit: --> 🐰</li>
+<li>:bear: --> 🐻</li>
+<li>:unicorn: --> 🦄</li>
+<li>:dragon: --> 🐲</li>
+<li>:octopus: --> 🐙</li>
+<li>:fish: --> 🐟</li>
+<li>:whale: --> 🐳</li>
+<li>:penguin: --> 🐧</li>
+<li>:bird: --> 🐦</li>
+<li>:butterfly: --> 🦋</li>
+<li>:flower: --> 🌺</li>
+<li>:tree: --> 🌳</li>
+<li>:mountain: --> ⛰️</li>
+<li>:beach: --> 🏖️</li>
+<li>:cityscape: --> 🏙️</li>
+<li>:nails: --> 💅</li>
+<li>:respect: --> 🫡</li>
+<li>:wave: --> 👋</li>
+<li>:inlove: --> 🥰</li>
+<li>:heart2: --> 💕</li>
+<li>:broken_heart: --> 💔</li>
+<li>:kiss: --> 👩‍❤️‍💋‍👨</li>
+<li>:heart_arrow: --> 💘</li>
+</ul>
 
 </details>
